@@ -183,7 +183,7 @@ rent-flatmate-finder/
 ### Step 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/anumodit740/rent-flatmate-finder.git
+git clone https://github.com/Utkarsh5100/rent-flatmate-finder.git
 cd rent-flatmate-finder
 ```
 
@@ -453,15 +453,10 @@ Contributions welcome! Please:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
 
 ## 💬 Support
 
-Need help? Open an [Issue](https://github.com/Utkarsh5100/rent-flatmate-finder/issues) or start a [Discussion](https://github.com/anumodit740/rent-flatmate-finder/discussions).
+Need help? Open an [Issue](https://github.com/Utkarsh5100/rent-flatmate-finder/issues) or start a [Discussion](https://github.com/Utkarsh5100/rent-flatmate-finder/discussions).
 
 ---
 
